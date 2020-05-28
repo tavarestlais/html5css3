@@ -1,0 +1,60 @@
+body {
+    background: whitesmoke;
+    margin-left: 100px;
+    margin-right: 30px;
+}
+
+h1 {
+    color: CornflowerBlue;
+    font-family:fantasy
+    
+}
+h2 {
+    color: DarkBlue;
+    font-family:fantasy
+}
+
+p {
+    font-size: 15px;
+    font-family: Verdana;
+    text-align: justify;
+    text-indent: 40px; margin-top: 0.83em 
+    
+}
+ol {
+    font-size: 15px;
+    font-family: Verdana;
+    text-align: justify;
+    text-indent: 20px; margin-top: 0.83em 
+    
+}
+
+.img_padrao {
+    width:400px;
+    height: 300px;    
+}
+.img_bu {
+    width: 300px;
+    height: 200px
+}
+.img_per {
+    width: 1278px;
+    height: 300px;
+
+}
+
+
+div.box {
+	width: 450px;
+    display: inline-block;
+    font-family: Verdana;
+    font-size: 15px;
+}
+
+div.box2 {
+	width: 400px;
+    display: inline-block;
+    font-family: Verdana;
+    text-align: justify;
+    font-size: 15px;
+}
